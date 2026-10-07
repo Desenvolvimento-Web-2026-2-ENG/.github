@@ -1,4 +1,4 @@
-# 🌐 Desenvolviemnto Web — BSI (2026/2)
+# 🌐 Desenvolvimento Web — BSI (2026/2)
 
 ### Bacharelado em Engenharia de Computação | [IFFluminense — Campus Campos Centro](https://portal1.iff.edu.br/nossos-campi/campos-centro)
 
