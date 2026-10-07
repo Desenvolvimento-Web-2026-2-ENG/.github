@@ -42,7 +42,7 @@ Para manter nossos projetos organizados e profissionais:
 
 ## 🔗 Links Úteis e Ferramentas
 
-* **Ambiente Virtual / Google Classroom:** [Google Classroom](https://classroom.google.com/c/ODg4MTA5Mzc5MDkx)
+* **Ambiente Virtual / Google Classroom:** [Google Classroom](https://classroom.google.com/c/ODg5NzQ5ODU0OTQ5)
 
 * **Documentação MDN Web Docs:** [developer.mozilla.org](https://developer.mozilla.org/pt-BR/)
 
