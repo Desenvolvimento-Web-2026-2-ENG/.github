@@ -25,7 +25,7 @@ Os repositórios desta organização estão estruturados de acordo com o tipo de
 | Tipo | Prefixo sugerido | Descrição | 
 | ----- | ----- | ----- | 
 | **Aulas & Práticas** | `aula-XX-nome` | Códigos de exemplo e demonstrações vistas em sala de aula. | 
-| **Atividades / Labs** | `lab-XX-matricula` | Tarefas e exercícios individuais pontuais. | 
+| **Atividades / Labs** | `lab-nome-aluno` | Tarefas e exercícios individuais pontuais. | 
 | **Projeto Final** | `projeto-nome-da-equipe` | Repositórios dos projetos práticos em equipe. | 
 
 ## 🛠️ Guia Rápido de Boas Práticas
